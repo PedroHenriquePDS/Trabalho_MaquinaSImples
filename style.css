@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap');
+
+
+body
+{
+    text-align: center;
+    background-color: #ADD8E6;
+
+}
+
+h1{
+
+    font-size: 60px;
+    font-family: 'Heebo', sans-serif;
+  
+
+
+}
+h2{
+
+ font-size: 40px;
+ font-family: 'Heebo', sans-serif;
+
+
+}
+p{
+
+    font-size: 21px;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+    
+
+
